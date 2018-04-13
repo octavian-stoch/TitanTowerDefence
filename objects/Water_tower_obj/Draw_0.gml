@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description debug code
 draw_self();
 draw_circle(x,y,range,true);
 

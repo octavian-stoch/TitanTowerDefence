@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "bullets_obj",
     "eventList": [
-        
+        {
+            "id": "ff9d8b1d-aeef-408a-ae1a-1d31ae3440ca",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "1aee6655-95cc-40ea-b8f9-c9e5cce72b9d",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "b71f7944-7a15-4bd0-a6c1-027aaa0c9dc6"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

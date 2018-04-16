@@ -5,6 +5,6 @@ spawn_rate = 1* room_speed;
 
 alarm[0] = 1;
 
-global.hp = 200;
+global.hp = 100;
 global.spd = 2;
 //global.level = 1;

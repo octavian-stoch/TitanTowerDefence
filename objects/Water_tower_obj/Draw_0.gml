@@ -7,7 +7,7 @@ var enemy = instance_nearest(x,y,sample_enemy_obj);
 if (enemy != noone){
 	if (point_distance(x,y,enemy.x,enemy.y) <= range) {
 		if (!shooting){
-			alarm[0] = 1;
+			alarm[0] = fire_rate;
 			shooting = true;
 			objectToShoot = enemy;
 		}

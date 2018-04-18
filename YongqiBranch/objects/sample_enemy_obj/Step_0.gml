@@ -3,4 +3,6 @@
 if hp <=0 {
 	instance_destroy(self);
 }
-
+if on_fire>0{
+	alarm[0]=12;	
+}

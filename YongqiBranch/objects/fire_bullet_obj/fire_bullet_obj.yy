@@ -5,16 +5,6 @@
     "name": "fire_bullet_obj",
     "eventList": [
         {
-            "id": "7efa6ec0-d661-482b-bc15-4767191aac3e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "2ab41b09-c495-4a4f-a492-dbf9f5d6b3fd"
-        },
-        {
             "id": "c87277e7-ad16-40f5-9d8d-42049239d4eb",
             "modelName": "GMEvent",
             "mvc": "1.0",

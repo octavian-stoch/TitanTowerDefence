@@ -122,7 +122,7 @@
             "Key": "31f40bd1-cca4-42d5-bed7-80ad236f45bf",
             "Value": {
                 "id": "0a84d95b-42e5-4b0c-b75e-c1d40180ea83",
-                "resourcePath": "paths\\path1\\path1.yy",
+                "resourcePath": "paths\\light_pth\\light_pth.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -284,6 +284,14 @@
                 "id": "431bd5a5-a27f-43fb-a71e-b2f3ddd64ee7",
                 "resourcePath": "views\\a1a820f3-8186-4a6d-8c0a-da78e4adb1ef.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a2e571ce-02e4-4d0a-94a0-5e9d0ca22876",
+            "Value": {
+                "id": "48d4c18b-ce20-4db7-b22c-b0841539653e",
+                "resourcePath": "objects\\spawn_light_obj\\spawn_light_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {

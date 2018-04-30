@@ -1,28 +1,18 @@
 {
-    "id": "b149108e-3022-4baf-8493-78ae0e64f263",
+    "id": "705c00f2-122f-487d-b084-4715a5324354",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Water_bullet_obj",
+    "name": "fire_button_obj",
     "eventList": [
         {
-            "id": "6d395f16-d4a3-4ec0-a540-71cddb7db4a0",
+            "id": "2113f30c-e501-4e7a-bc2c-c6be4b937bc5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "b149108e-3022-4baf-8493-78ae0e64f263"
-        },
-        {
-            "id": "317000cf-6d58-4ce4-b8c2-00ecaac5e373",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "1aee6655-95cc-40ea-b8f9-c9e5cce72b9d",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "b149108e-3022-4baf-8493-78ae0e64f263"
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "705c00f2-122f-487d-b084-4715a5324354"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f8d6ca72-06bf-4b8b-af00-97b2984607b8",
+    "spriteId": "c78095af-edc8-475b-9d85-11eb22ff91ae",
     "visible": true
 }

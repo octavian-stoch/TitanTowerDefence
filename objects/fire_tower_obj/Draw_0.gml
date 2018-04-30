@@ -1,10 +1,12 @@
+/// @description Insert description here
+// You can write your code in this editor
 draw_self();
 draw_circle(x,y,range,true);
 
 var enemy = instance_nearest(x,y,sample_enemy_obj);
-draw_line(x,y,enemy.x,enemy.y);
+var enemy2 = instance_nearest(x,y,light_ene_obj);
 
-if (point_distance(x,y,enemy.x,enemy.y) <= range)
+if (point_distance(x,y,enemy2.x,enemy2.y) <= range)
 {
 	if (!shooting)
 	{
@@ -12,9 +14,10 @@ if (point_distance(x,y,enemy.x,enemy.y) <= range)
 		shooting = true;
 
 	}
-	objectToShoot = enemy;
+	objectToShoot = enemy2;
 	
 }
+
 else{
 	shooting = false;
 	objectToShoot = noone;

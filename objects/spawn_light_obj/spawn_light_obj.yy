@@ -1,38 +1,28 @@
 {
-    "id": "eb2418ac-2ab7-4e0f-82b8-5ab428d2dba1",
+    "id": "a2e571ce-02e4-4d0a-94a0-5e9d0ca22876",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "fire_tower_obj",
+    "name": "spawn_light_obj",
     "eventList": [
         {
-            "id": "61ef9d40-f9a9-458f-aef7-1a62138ffacc",
+            "id": "ba195708-6549-4359-a550-dee99e71ce15",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "eb2418ac-2ab7-4e0f-82b8-5ab428d2dba1"
+            "m_owner": "a2e571ce-02e4-4d0a-94a0-5e9d0ca22876"
         },
         {
-            "id": "0a85d0f6-0a67-4b18-ad40-6447b9cdf10b",
+            "id": "0e9eb872-7980-4148-b96b-03bbce0fe960",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 2,
-            "m_owner": "eb2418ac-2ab7-4e0f-82b8-5ab428d2dba1"
-        },
-        {
-            "id": "af2e3033-1998-479e-95a5-36a724423cd2",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "eb2418ac-2ab7-4e0f-82b8-5ab428d2dba1"
+            "m_owner": "a2e571ce-02e4-4d0a-94a0-5e9d0ca22876"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "39983830-d78c-4067-8fa9-faeba6839066",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

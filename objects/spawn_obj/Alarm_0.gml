@@ -1,3 +1,4 @@
+/// @description trash mob
 if (spawn_count < spawn_amount){
 	instance_create_depth(x,y,-1,sample_enemy_obj);	
 	spawn_count++;

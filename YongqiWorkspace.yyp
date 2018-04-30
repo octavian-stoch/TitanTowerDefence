@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "135a4456-9f83-46b4-ae97-87e3869b45d1",
-            "Value": {
-                "id": "6cb8295c-8a26-4ffb-a4bb-56916788c666",
-                "resourcePath": "objects\\on_fire_obj\\on_fire_obj.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "15069efb-af7c-41bf-8bf9-016b6bbc038e",
             "Value": {
                 "id": "d3f3d30e-a64e-433d-a025-b94b0acdf50e",
@@ -103,14 +95,6 @@
             }
         },
         {
-            "Key": "27cd6054-5653-4c5f-8eaa-c12114d4a26b",
-            "Value": {
-                "id": "b65046d5-8202-4822-911e-0e792bbc8d78",
-                "resourcePath": "sprites\\on_fire_spr\\on_fire_spr.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "2820b679-a072-4aea-88e7-2365c7f30df8",
             "Value": {
                 "id": "99c63f88-c7a3-4c00-aceb-a91546af4e80",
@@ -124,6 +108,22 @@
                 "id": "4b65cc4c-d175-4c57-a6ca-bd9f3a5b386c",
                 "resourcePath": "objects\\fire_bullet_obj\\fire_bullet_obj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2e4a8d33-1c43-40f4-b9fd-da6815f20f7a",
+            "Value": {
+                "id": "f7b27904-0052-4f81-8a4f-31675fc58b73",
+                "resourcePath": "sprites\\light_ene_spr\\light_ene_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "31f40bd1-cca4-42d5-bed7-80ad236f45bf",
+            "Value": {
+                "id": "0a84d95b-42e5-4b0c-b75e-c1d40180ea83",
+                "resourcePath": "paths\\path1\\path1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -268,6 +268,14 @@
                 "id": "ef0731cc-279e-4e9b-8c09-48059aa31831",
                 "resourcePath": "views\\818ab0da-95f3-4d26-9e31-7191bc302ba6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "896fd66a-0cdb-45b7-9fe0-db73a8b22ed5",
+            "Value": {
+                "id": "e379ea48-946b-4660-870d-68b36dc58f62",
+                "resourcePath": "objects\\light_ene_obj\\light_ene_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {

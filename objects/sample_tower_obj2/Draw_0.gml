@@ -1,9 +1,8 @@
-/// @description Insert description here
-// You can write your code in this editor
 draw_self();
 draw_circle(x,y,range,true);
 
 var enemy = instance_nearest(x,y,sample_enemy_obj);
+draw_line(x,y,enemy.x,enemy.y);
 
 if (point_distance(x,y,enemy.x,enemy.y) <= range)
 {
